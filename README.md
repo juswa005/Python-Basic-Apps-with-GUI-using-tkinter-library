@@ -113,7 +113,7 @@ root.mainloop()
 Run:
 
 ```bash
-python budget_tracker.py
+python codes/budget_tracker.py
 ```
 
 ---
@@ -207,7 +207,7 @@ root.mainloop()
 Run:
 
 ```bash
-python password_manager.py
+python codes/password_manager.py
 ```
 
 ---
@@ -278,7 +278,7 @@ root.mainloop()
 Run:
 
 ```bash
-python unit_converter.py
+python codes/unit_converter.py
 ```
 
 ---
@@ -333,7 +333,7 @@ root.mainloop()
 Run:
 
 ```bash
-python password_generator.py
+python codes/password_generator.py
 ```
 
 ---
@@ -429,7 +429,7 @@ root.mainloop()
 Run:
 
 ```bash
-python flashcard_app.py
+python codes/flashcard_app.py
 ```
 
 
@@ -457,7 +457,7 @@ cd Python-Basic-Apps-with-GUI-using-tkinter-library
 Run any application:
 
 ```bash
-python filename.py
+python codes/filename.py
 ```
 
 ## Purpose

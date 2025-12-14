@@ -94,15 +94,15 @@ summary = tk.Frame(root)
 summary.pack(pady=10)
 
 tk.Label(summary, text="Total Income:").grid(row=0, column=0, padx=10)
-income_label = tk.Label(summary, text="₱ 0.00", fg="green")
+income_label = tk.Label(summary, text="Php 0.00", fg="green")
 income_label.grid(row=0, column=1)
 
 tk.Label(summary, text="Total Expense:").grid(row=0, column=2, padx=10)
-expense_label = tk.Label(summary, text="₱ 0.00", fg="red")
+expense_label = tk.Label(summary, text="Php 0.00", fg="red")
 expense_label.grid(row=0, column=3)
 
 tk.Label(summary, text="Balance:").grid(row=0, column=4, padx=10)
-balance_label = tk.Label(summary, text="₱ 0.00", fg="blue")
+balance_label = tk.Label(summary, text="Php 0.00", fg="blue")
 balance_label.grid(row=0, column=5)
 
 root.mainloop()

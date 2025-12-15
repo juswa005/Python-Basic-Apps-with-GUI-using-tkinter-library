@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 root = tk.Tk()
-root.title("Simple Password Manager")
+root.title("Password Manager")
 root.geometry("600x400")
 root.resizable(False, False)
 
